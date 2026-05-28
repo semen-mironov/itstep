@@ -1,0 +1,54 @@
+.price-box {
+    background: #4a4d41;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 450px;
+}
+
+.top-green {
+    background: #b3c95a;
+    padding: 20px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.gap td {
+    padding: 25px 10px 10px 10px;
+    font-weight: bold;
+}
+
+.left-col {
+    text-align: right;
+    width: 50%;
+    padding: 8px 20px;
+    color: #ccc;
+}
+
+.gold-text {
+    color: #f1e081;
+    text-align: center;
+}
+
+.white-text {
+    color: #fff;
+}
+
+td {
+    padding: 8px;
+}
+
+.dot-border {
+    text-align: center;
+    border-left: 1px dotted rgba(255,255,255,0.3);
+}
+
+.big-price {
+    font-size: 18px;
+}
+
+small {
+    font-size: 10px;
+    font-style: italic;
+    opacity: 0.6;
+}

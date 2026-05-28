@@ -1,0 +1,25 @@
+.wheel-front {
+    position: absolute;
+    left: 165px;
+    bottom: 430px;
+    transition: 0.5s;
+}
+
+.wheel-rear {
+    position: absolute;
+    left: 1065px;
+    bottom: 430px;
+    transition: 0.5s;
+}
+
+.body {
+    display: block;
+}
+
+.body:hover .wheel-front {
+    transform: rotate(-360deg);
+}
+
+.body:hover .wheel-rear {
+    transform: rotate(-360deg);
+}

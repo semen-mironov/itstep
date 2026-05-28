@@ -1,0 +1,19 @@
+
+
+li {
+    list-style-type: decimal;
+    background-color: #d8708a;
+    margin: 5px;
+}
+
+ul {
+    background-color: #E89AA9;
+    padding: 20px;
+    width: 200px;
+}
+
+p {
+    background-color: #9e2f4f;
+    width: 80px;
+    padding: 5px;
+}
